@@ -1,0 +1,16 @@
+{
+    "name": "fgavi/test-php-sisma",
+    "description": "test sisma",
+    "autoload": {
+        "psr-4": {
+            "Fgavi\\TestPhpSisma\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Francisco",
+            "email": "gaviria.reyes@gmail.com"
+        }
+    ],
+    "require": {}
+}
